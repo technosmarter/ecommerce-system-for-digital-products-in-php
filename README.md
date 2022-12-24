@@ -62,4 +62,14 @@ Related items, Pages (Footer), Categories (Footer), Trending items (Footer), Ite
 <strong>Ecommerce Additional Settings –</strong>
 The name additional indicates that you can add extra CSS, CSS link, js, js link, banners or ads code inside the head, header, below title left sidebar,
 right-sidebar, below content, footer, and before closing body tag.<br> 
-
+ # Installation 
+ The installation process is very easy. You can easily install an eCommerce system with a form only. <br>
+ 1. First, get <a href="https://technosmarter.com/item/ecommerce-system-in-php-website"> eCommerce system in PHP</a> from here(You can watch the demo from here) and download the zip file.<br> 
+ 2. Extract the zip file. Open the E-commerce URL on your browser.<br> 
+ 3. You will see a form. Fill up the form like - host, database name, database username, and password. <br>
+ 4. After that, create an admin user and that's it. You can <a href="https://technosmarter.com/contact">contact</a> for installation support or more features. <br>
+ # Developer 
+ <a href="https://technosmarter.com">Techno Smarter </a>
+ # Ecommerce system in PHP 
+ <a href="https://technosmarter.com/item/ecommerce-system-in-php-website">Ecommerce system in PHP website | Digital Ecommerce Shop web app</a>
+ 
