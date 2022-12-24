@@ -1,5 +1,4 @@
 # Ecommerce system for digital products in PHP and MYSQL
-Ecommerce system for digital products in PHP 
 ![image](https://user-images.githubusercontent.com/41726733/209428080-cae9ce00-bec4-4a51-b56d-ff5a7d33e762.png)
 
 An E-commerce system is used to sell products online with a payment gateway. We have created a complete digital commerce system with Paypal. 
